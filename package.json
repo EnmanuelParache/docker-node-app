@@ -1,0 +1,28 @@
+{
+  "name": "docker-node-app",
+  "version": "1.0.0",
+  "description": "Testing docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Docker",
+    "NodeJS",
+    "Express"
+  ],
+  "author": "Enmanuel Parache",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enmanuelparache/docker-node-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/enmanuelparache/docker-node-app/issues"
+  },
+  "homepage": "https://github.com/enmanuelparache/docker-node-app#readme"
+}
